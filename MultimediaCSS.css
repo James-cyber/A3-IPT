@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url("AllMultimedia/IMG_0093.JPG")
+}
+div{
+	background-color:grey;
+	text-align:center
+}
+.nav2{
+	text-align:center;
+	color:white;
+}
+button{
+	background-color:grey;
+}
+p{
+	text-align:center;
+	background-color:grey;
+	margin-bottom:50px;
+}
+ul{
+	list-style-type:none;
+}
+.div1{
+	margin-bottom:50px;
+}
